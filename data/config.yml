@@ -1,0 +1,8 @@
+domain:
+  google: "https://google.com"
+  grpcUser : "localhost:3002"
+server:
+  port: "3001"
+  secret: "jdnfksdmfksda"
+  #release | debug
+  mode: "release"
